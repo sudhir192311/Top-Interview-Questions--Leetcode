@@ -1,4 +1,4 @@
-Video link:
+
 
 def bagOfTokensScore(self, tokens, P):
         res = cur = 0
